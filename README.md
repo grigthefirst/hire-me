@@ -1,4 +1,4 @@
-#Task implementation notes
+# Task implementation notes
 - Run with `yarn install` & `yarn run start`
 - I decided to go with react-intersection-observer instead of infinite or virtual scroll library only because it is a test assignment and I decided that my implementation will be faster than library research.
   In the production solution, I definitely will do careful library research.
